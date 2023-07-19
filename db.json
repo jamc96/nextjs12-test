@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "my post",
+      "author": "jamcmejia",
+      "id": 2
+    },
+    {
+      "title": "my post2",
+      "author": "jamcmejia",
+      "id": 3
+    },
+    {
+      "title": "hello world",
+      "id": 4
+    },
+    {
+      "title": "my new posts",
+      "id": 5
+    },
+    {
+      "title": "my new posts",
+      "id": 6
+    },
+    {
+      "title": "here my friend",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
